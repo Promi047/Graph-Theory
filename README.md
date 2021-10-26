@@ -1,2 +1,2 @@
 # Graph-Theory
-COntains graph theory books, presentation files
+Contains graph theory books, presentation files
